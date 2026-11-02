@@ -42,4 +42,4 @@ python3 -m unittest -v
 
 [Лимаренко Дарья, ИУ5-34](https://github.com/DariaLimarenko)
 
-[Репозиторий курса ПиК ЯП](https://github.com/gregkorneev-BMSTU/PCPL.git)
+[Репозиторий курса ПиК ЯП](https://github.com/DariaLimarenko/PKYAP)
